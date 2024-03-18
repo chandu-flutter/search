@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799628710184",
+    "project_id": "thandriusers",
+    "storage_bucket": "thandriusers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799628710184:android:d0186b692879f71dc1801d",
+        "android_client_info": {
+          "package_name": "com.example.thandri_sannidhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ya96B9F0o_6b6FFWE9IHlbgzg4yLako"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
